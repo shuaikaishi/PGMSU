@@ -1,6 +1,6 @@
 # Probabilistic Generative Model for Hyperspectral Unmixing Accounting for Endmember Variability
 
-The code in this toolbox implements the "Probabilistic Generative Model for Hyperspectral Unmixing Accounting for Endmember Variability". More specifically, it is detailed as follow.
+The code in this toolbox implements the "Probabilistic Generative Model for Hyperspectral Unmixing Accounting for Endmember Variability" and "[Variational Autoencoders for Hyperspectral Unmixing with Endmember Variability](https://ieeexplore.ieee.org/document/9414940)". More specifically, it is detailed as follow.
 ![](./fig/framework.png)
 
 
@@ -11,7 +11,7 @@ The code in this toolbox implements the "Probabilistic Generative Model for Hype
 ## Ciation
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 ```
-@INPROCEEDINGS{9414940,
+@INPROCEEDINGS{shi2020variational,
   author={Shi, Shuaikai and Zhao, Min and Zhang, Lijun and Chen, Jie},
   booktitle={ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
   title={Variational Autoencoders for Hyperspectral Unmixing with Endmember Variability}, 
