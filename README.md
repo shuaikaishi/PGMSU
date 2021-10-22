@@ -18,7 +18,7 @@ Run `python test.py` to get visual results.
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 
 ```
-@ARTICLE{shi2020probabilistic,
+@ARTICLE{shi2021probabilistic,
   author={Shi, Shuaikai and Zhao, Min and Zhang, Lijun and Altmann, Yoann and Chen, Jie},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={Probabilistic Generative Model for Hyperspectral Unmixing Accounting for Endmember Variability}, 
@@ -28,7 +28,7 @@ Run `python test.py` to get visual results.
   pages={1-1},
   doi={10.1109/TGRS.2021.3121799}}
   
-@INPROCEEDINGS{shi2020variational,
+@INPROCEEDINGS{shi2021variational,
   author={Shi, Shuaikai and Zhao, Min and Zhang, Lijun and Chen, Jie},
   booktitle={ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
   title={Variational Autoencoders for Hyperspectral Unmixing with Endmember Variability}, 
