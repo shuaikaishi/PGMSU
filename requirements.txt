@@ -1,0 +1,5 @@
+matplotlib==3.4.2
+torch==1.8.1+cu111
+numpy==1.19.3
+scipy==1.4.1
+scikit_learn==1.0
