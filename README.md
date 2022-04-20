@@ -22,10 +22,10 @@ Run `python test.py` to get visual results.
   author={Shi, Shuaikai and Zhao, Min and Zhang, Lijun and Altmann, Yoann and Chen, Jie},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={Probabilistic Generative Model for Hyperspectral Unmixing Accounting for Endmember Variability}, 
-  year={2021},
-  volume={},
+  year={2022},
+  volume={60},
   number={},
-  pages={1-1},
+  pages={1-15},
   doi={10.1109/TGRS.2021.3121799}}
   
 @INPROCEEDINGS{shi2021variational,
@@ -49,3 +49,6 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 You should have received a copy of the GNU General Public License along with this program.
 
+## Contact Information:
+If you encounter any bugs while using this code, please do not hesitate to contact us.
+Shuaikai Shi [_shuaikai_shi@mail.nwpu.edu.cn](_shuaikai_shi@mail.nwpu.edu.cn)  is with the Center of Intelligent Acoustics and Immersive Communications, School of Marine Science and Technology, Northwestern Polytechinical University, Xi’an 710072, China
